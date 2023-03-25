@@ -1,6 +1,6 @@
-# Automated EDA using DataPrep, Sweetviz, and D-Tale
+# Automated EDA using DataPrep, Sweetviz, Pandas-Profiling and D-Tale
 
-This repository contains an example of how to perform automated exploratory data analysis (EDA) using three Python libraries: DataPrep, Sweetviz, and D-Tale. 
+This repository contains an example of how to perform automated exploratory data analysis (EDA) using three Python libraries: DataPrep, Sweetviz, Pandas-Profiling and D-Tale. 
 
 ## Overview
 
@@ -15,10 +15,11 @@ To run this project, you will need to have Python 3.x and the following librarie
 - DataPrep
 - Sweetviz
 - D-Tale
+- Pandas-Profiling
 
 You can install these libraries using pip:<br>
 ```python
-pip install dataprep sweetviz dtale
+pip install dataprep sweetviz dtale pandas_profiling
 ```
 
 
