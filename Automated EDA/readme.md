@@ -36,6 +36,8 @@ The following files will be generated in the same directory:
 - `PandasProfilingReport.html`: Pandas profiling generates a detailed report that provides statistical analysis and visualizations of the data. It includes information such as data types, missing values, correlation between variables, distributions, and outliers.
 
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/89776323/227755385-fb60d7ca-8192-461b-98bb-abe0d9a62916.png">
+<img width="581" alt="image" src="https://user-images.githubusercontent.com/89776323/227755458-a20e3f58-9926-4582-9c00-f1b03038bcd6.png">
+
 
 
 
